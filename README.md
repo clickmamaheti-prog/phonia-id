@@ -42,14 +42,14 @@ python3 phonia-id.py -n 08123456789 -o hasil.txt
 ## Contoh Output
 
 ```
-📱 Nomor       : +62 831-9566-4588
+📱 Nomor       : +62 8XX-XXXX-XXXX
 🌍 Negara      : Indonesia (ID)
 📍 Wilayah     : Axis (Nasional)
 🏢 Provider    : AXIS
 📋 Tipe        : Prabayar
 🕐 Timezone    : Asia/Jakarta
 
-✅ WhatsApp: Tersedia di wa.me/6283195664588
+✅ WhatsApp: Tersedia di wa.me/628XXXXXXXXXX
 ```
 
 ## Sumber Data
